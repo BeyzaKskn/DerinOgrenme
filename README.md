@@ -1,3 +1,4 @@
+CNN ve Ön Eğitimli Ağlar ile Alzheimer Hastalığının Sınıflandırılması
 ![image](https://github.com/user-attachments/assets/d675708b-fdb2-4612-b244-abd39dea079b)
 ![image](https://github.com/user-attachments/assets/1b347ca6-5f92-49c4-9021-80b24d5c7c1d)
 ![image](https://github.com/user-attachments/assets/02f157f6-57e8-4697-a173-d3459bb71947)
